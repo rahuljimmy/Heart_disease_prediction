@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction - Machine Learning Project
+# 🫀 Heart Disease Prediction - Machine Learning Project
 
 ## 📌 Project Overview
 This project is an end-to-end Machine Learning classification model that predicts whether a person has heart disease based on medical and physiological features.
@@ -80,7 +80,6 @@ F1-Score = 88%
 The final model is deployed using Streamlit Community Cloud.
 
 🔗 Live App: [https://heart-disease-prediction--2.streamlit.app]  
-💻 GitHub Repository: [https://github.com/rahuljimmy]
 
 ---
 
